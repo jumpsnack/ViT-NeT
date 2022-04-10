@@ -1,7 +1,7 @@
 # ViT-NeT: Interpretable Vision Transformers with Neural Tree Decoder
 
 This repository contains PyTorch code for ViT-NeT. It builds on code from the [Swin Transformer](https://github.com/microsoft/Swin-Transformer).
-![fig1](figs/fig s-1.png)
+![fig1](./figs/fig%20s-1.png)
 
 # Usage
 
