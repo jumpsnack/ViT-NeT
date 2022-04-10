@@ -1,0 +1,22 @@
+DATA:
+  DATASET: cub
+MODEL:
+  TYPE: swin_tree
+  NAME: swin_tree_patch4_window14_448_CUB
+  DROP_PATH_RATE: 0.1
+#  RESUME: '448CUB depth 4 CTM GMP 91.59.pth'
+  TREE:
+    DEPTH: 4
+    PROTO_SIZE: [1,1]
+  SWIN:
+    EMBED_DIM: 128
+    DEPTHS: [ 2, 2, 18, 2 ]
+    NUM_HEADS: [ 4, 8, 16, 32 ]
+    WINDOW_SIZE: 14
+TRAIN:
+  EPOCHS: 30
+  WARMUP_EPOCHS: 1
+  WEIGHT_DECAY: 1e-8
+  BASE_LR: 2e-05
+  WARMUP_LR: 2e-08
+  MIN_LR: 2e-07
