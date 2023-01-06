@@ -1,13 +1,9 @@
 # ViT-NeT: Interpretable Vision Transformers with Neural Tree Decoder
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vit-net-interpretable-vision-transformers/fine-grained-image-classification-on-stanford-1)](https://paperswithcode.com/sota/fine-grained-image-classification-on-stanford-1?p=vit-net-interpretable-vision-transformers)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vit-net-interpretable-vision-transformers/image-classification-on-inaturalist)](https://paperswithcode.com/sota/image-classification-on-inaturalist?p=vit-net-interpretable-vision-transformers)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vit-net-interpretable-vision-transformers/fine-grained-image-classification-on-nabirds)](https://paperswithcode.com/sota/fine-grained-image-classification-on-nabirds?p=vit-net-interpretable-vision-transformers)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vit-net-interpretable-vision-transformers/fine-grained-image-classification-on-cub-200)](https://paperswithcode.com/sota/fine-grained-image-classification-on-cub-200?p=vit-net-interpretable-vision-transformers)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vit-net-interpretable-vision-transformers/fine-grained-image-classification-on-stanford)](https://paperswithcode.com/sota/fine-grained-image-classification-on-stanford?p=vit-net-interpretable-vision-transformers)
 
 This repository contains PyTorch code for ViT-NeT. It builds on code from the [Swin Transformer](https://github.com/microsoft/Swin-Transformer).
