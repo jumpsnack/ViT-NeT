@@ -1,4 +1,4 @@
-# ViT-NeT: Interpretable Vision Transformers with Neural Tree Decoder
+# [ICML2022] ViT-NeT: Interpretable Vision Transformers with Neural Tree Decoder
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vit-net-interpretable-vision-transformers/fine-grained-image-classification-on-stanford-1)](https://paperswithcode.com/sota/fine-grained-image-classification-on-stanford-1?p=vit-net-interpretable-vision-transformers)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vit-net-interpretable-vision-transformers/image-classification-on-inaturalist)](https://paperswithcode.com/sota/image-classification-on-inaturalist?p=vit-net-interpretable-vision-transformers)
